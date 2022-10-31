@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MMTrindade
 - 👀 I’m interested in engineering and software development
-- 🌱 I’m Engineer, graduated from Universidade Federal do Rio de Janeiro, and currently mastering Computer Engineering in Universidade de Lisboa.
-- 💞️ I’m looking to collaborate on HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
+- 🌱 MSc Student • Bologna Master Degree in Computer Science and Engineering
+- 💞️ I’m looking to collaborate on HTML, CSS, JAVASCRIPT, SQL, NODE, REACT, D3.JS
 - 📫 How to reach me linkedin.com/in/matheus-trindade-906124208
 
 <!---
